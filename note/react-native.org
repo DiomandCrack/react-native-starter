@@ -1,0 +1,15 @@
+* react-native
+
+** <Image>
+
+Image组件能给图片着色
+
+*** 属性
+
+**** source
+
+sorece={require('图片地址')}
+
+**** style
+
+style能接受一个数组
